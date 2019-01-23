@@ -46,6 +46,7 @@
   - hur många symboler i rad som behövs för att vinna ( input-box, med +/- knappar)
     - min 3
     - max sidlängd
+  - Natt/dagläge för mörk eller ljus skärm
  
   När spelaren konfigurerat spelet färdig, trycker spelaren på fortsätt-nappen
 
